@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Aida 👋
 
-<!--
-**aydaeslami/aydaeslami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer
+Currently learning Full Stack Development with CodeYourFuture  
+Based in the London
 
-Here are some ideas to get you started:
+## Technical Skills
+- HTML
+- CSS
+- JavaScript
+- React
+- Python
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Soft Skills
+- Problem Solving
+- Teamwork
+- Communication
+- Adaptability
+- Continuous Learning
+
+## Current Focus
+- Building responsive websites
+- Improving JavaScript skills
+- Learning React and full-stack development
+
+## Portfolio
+- https://aida-tech.netlify.app/
+
+## Contact
+- Email: ayda.eslami@gmail.com
+- LinkedIn: www.linkedin.com/in/aidaeslamimoghadam
