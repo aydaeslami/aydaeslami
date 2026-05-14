@@ -6,7 +6,7 @@ Based in the London
 
 ## Technical Skills
 - HTML
-- CSS
+- Tailwind CSS
 - JavaScript
 - React
 - Python
